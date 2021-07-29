@@ -10,7 +10,7 @@ This repository hosts the codebase for the [Python Chat Tutorial with Django and
 
 **1. Clone the Repository**
 
-`git clone https://github.com/Tortu-Ch/Django-React-Chat-Example.git
+`git clone https://github.com/TortuC/Django-React-Chat-Example.git
 
 **2. Setup Dependencies**
 
